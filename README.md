@@ -4,10 +4,10 @@ I am a junior web-programmer from Rostov-on-Don
 - 🌱 Layout based on Figma layouts 
 <br>
 ## Connect with me
-[<img align = "left" alt = "Telegram" src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />] ( https://t.me/poxiQ )
-[<img align = "left" alt = "WhatsApp" src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />]
-[<img align = "left" alt = "Gmail" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />] ( https://mail.google.com//poxiq03@gmail.com )
-[<img align = "left" alt = "TikTok" src = "https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" />] ( https://vm.tiktok.com/ZSJcpG48V/ )
+<img align = "left" alt = "Telegram" src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />( https://t.me/poxiQ )
+<img align = "left" alt = "WhatsApp" src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<img align = "left" alt = "Gmail" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />( https://mail.google.com//poxiq03@gmail.com )
+<img align = "left" alt = "TikTok" src = "https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" />( https://vm.tiktok.com/ZSJcpG48V/ )
 <br> 
 <br>
 ## Programming Languages
