@@ -69,9 +69,3 @@ I am a junior web-programmer from Rostov-on-Don
 
 <img align = "left" alt = "Jupyter Notebook" src = "https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
 <br>
-
-
-## Blog posts
-<!-- BLOG-POST-LIST:START -->
- 
-<!-- BLOG-POST-LIST:END -->
