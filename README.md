@@ -1,6 +1,6 @@
 ### Hello World ✨
-I am a junior web-programmer from Rostov-on-Don 
-- 🌞 Working on multiple frontend project using JavaScript and jQuery
+I am a junior programmer from Rostov-on-Don 
+- 🌞 Working on multiple frontend/backend projects
 - 🥑 Layout based on Figma layouts 
 - 🐨 How to reach me: poxiq03@gmail.com
 - 🍉 Fun fuct: I ❤️🐱s & 🌼
