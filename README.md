@@ -17,7 +17,7 @@
 <img align = "left" alt = "Selenium" src = "https://img.shields.io/badge/selenium-%23563D7C.svg?style=for-the-badge&logo=selenium&logoColor=white"/>
 <img align = "left" alt = "Postgres" src = "https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img align = "left" alt = "Neo4j" src = "https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"/>
-<img align = "left" alt = "RabbitMQ" src = "https://static.tildacdn.com/tild6635-3263-4564-a434-326532303361/rabbitmq.png" height = "30" width = "70"/>
+<img align = "left" alt = "RabbitMQ" src = "https://static.tildacdn.com/tild6635-3263-4564-a434-326532303361/rabbitmq.png" height = "30" width = "50"/>
 
 
 <br>
